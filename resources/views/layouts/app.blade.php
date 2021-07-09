@@ -37,39 +37,39 @@
          }
     
         #footer, #nav, .btn {
-            background-color: #610B21;
+            background-color: #284A50;
         }
         
         #tamanoFooter { height: 50px; }
         
         .btn:hover {
-            background-color: #840f2d; 
+            background-color: #163E45; 
         }
         
         .dropdown-content li > a, .dropdown-content li > span {
-            color: #840f2d;
+            color: #163E45;
         }
         
         [type="checkbox"]:checked + label:before {
-            border-right: 2px solid #840f2d;
-            border-bottom: 2px solid #840f2d;
+            border-right: 2px solid #163E45;
+            border-bottom: 2px solid #163E45;
         }
         
         input[type=text]:focus:not([readonly]) + label {
-          color: #840f2d;
+          color: #163E45;
           font-size: 100%;
         }
         
         input[type=checkbox]:focus:not([readonly]) + label {
-          color: #840f2d;
+          color: #163E45;
           font-size: 95%;
         }
         
-        form label{font-size: 100%; color: #840f2d;}
+        form label{font-size: 100%; color: #163E45;}
         
         input[type=text]:focus:not([readonly]) {
-          border-bottom: 1px solid #840f2d;
-          box-shadow: 0 1px 0 0 #840f2d;
+          border-bottom: 1px solid #163E45;
+          box-shadow: 0 1px 0 0 #163E45;
         }
         
     </style>
@@ -99,7 +99,7 @@
                 <div class="col l6 s12">
                     <strong>Denisse González Salas</strong>
                     <br>
-                    <strong>B33029</strong>
+                    <!-- <strong>B33029</strong>-->
               </div>
             </div>
           </div>
