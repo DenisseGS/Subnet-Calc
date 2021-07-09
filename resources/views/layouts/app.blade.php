@@ -37,39 +37,39 @@
          }
     
         #footer, #nav, .btn {
-            background-color: #284A50;
+            background-color: #163E45;
         }
         
         #tamanoFooter { height: 50px; }
         
         .btn:hover {
-            background-color: #163E45; 
+            background-color: #58797F; 
         }
         
         .dropdown-content li > a, .dropdown-content li > span {
-            color: #163E45;
+            color: #58797F;
         }
         
         [type="checkbox"]:checked + label:before {
-            border-right: 2px solid #163E45;
-            border-bottom: 2px solid #163E45;
+            border-right: 2px solid #58797F;
+            border-bottom: 2px solid #58797F;
         }
         
         input[type=text]:focus:not([readonly]) + label {
-          color: #163E45;
+          color: #58797F;
           font-size: 100%;
         }
         
         input[type=checkbox]:focus:not([readonly]) + label {
-          color: #163E45;
+          color: #58797F;
           font-size: 95%;
         }
         
-        form label{font-size: 100%; color: #163E45;}
+        form label{font-size: 100%; color: #58797F;}
         
         input[type=text]:focus:not([readonly]) {
-          border-bottom: 1px solid #163E45;
-          box-shadow: 0 1px 0 0 #163E45;
+          border-bottom: 1px solid #58797F;
+          box-shadow: 0 1px 0 0 #58797F;
         }
         
     </style>
