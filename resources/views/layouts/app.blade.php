@@ -99,7 +99,7 @@
                 <div class="col l6 s12">
                     <strong>Denisse González Salas</strong>
                     <br>
-                    <!-- <strong>B33029</strong>-->
+                    <strong>Redes I</strong>
               </div>
             </div>
           </div>
